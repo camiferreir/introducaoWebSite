@@ -1,19 +1,11 @@
 
-img{
-    width: 20%;
-    height: auto;
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: 'Raleway', sans-serif;
+
 }
-
-
+ 
 h1 {
-    color: red;
-    text-align: center;
-}
-
-p {
-    font-size: 18px;
-    color: purple;
-    text-align:center;
-
 
 }
